@@ -55,6 +55,10 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
@@ -63,8 +67,7 @@
               "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\SH-2 Q3\\Learn\\Learn\\Form1.cs [Design]",
               "RelativeToolTip": "Learn\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:33:33.485Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-26T15:33:33.485Z"
             }
           ]
         }
