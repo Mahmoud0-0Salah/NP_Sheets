@@ -1,0 +1,34 @@
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\bin\Debug\net8.0-windows\Learn.exe
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\bin\Debug\net8.0-windows\Learn.deps.json
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\bin\Debug\net8.0-windows\Learn.runtimeconfig.json
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\bin\Debug\net8.0-windows\Learn.dll
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\bin\Debug\net8.0-windows\Learn.pdb
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.Form1.resources
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.csproj.GenerateResource.cache
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.AssemblyInfo.cs
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.sourcelink.json
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.dll
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\refint\Learn.dll
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.pdb
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\Learn.genruntimeconfig.cache
+E:\study\now\NP\SEC\IMp\Serialize\Learn\Learn\obj\Debug\net8.0-windows\ref\Learn.dll
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\bin\Debug\net8.0-windows\Learn.exe
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\bin\Debug\net8.0-windows\Learn.deps.json
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\bin\Debug\net8.0-windows\Learn.runtimeconfig.json
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\bin\Debug\net8.0-windows\Learn.dll
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\bin\Debug\net8.0-windows\Learn.pdb
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.Form1.resources
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.csproj.GenerateResource.cache
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.AssemblyInfo.cs
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.sourcelink.json
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.dll
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\refint\Learn.dll
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.pdb
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\Learn.genruntimeconfig.cache
+E:\study\now\NP\SEC\IMp\SH-2 Q8\Learn\Learn\obj\Debug\net8.0-windows\ref\Learn.dll
