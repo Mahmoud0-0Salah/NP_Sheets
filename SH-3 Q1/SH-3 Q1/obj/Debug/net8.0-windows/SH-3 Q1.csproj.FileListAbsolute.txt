@@ -1,0 +1,17 @@
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\bin\Debug\net8.0-windows\SH-3 Q1.exe
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\bin\Debug\net8.0-windows\SH-3 Q1.deps.json
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\bin\Debug\net8.0-windows\SH-3 Q1.runtimeconfig.json
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\bin\Debug\net8.0-windows\SH-3 Q1.dll
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\bin\Debug\net8.0-windows\SH-3 Q1.pdb
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH_3_Q1.Form1.resources
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.csproj.GenerateResource.cache
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.AssemblyInfo.cs
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.sourcelink.json
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.dll
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\refint\SH-3 Q1.dll
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.pdb
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\SH-3 Q1.genruntimeconfig.cache
+E:\study\now\NP\SEC\IMp\SH-3 Q1\SH-3 Q1\obj\Debug\net8.0-windows\ref\SH-3 Q1.dll

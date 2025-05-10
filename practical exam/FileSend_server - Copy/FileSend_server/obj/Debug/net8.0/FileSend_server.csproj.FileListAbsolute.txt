@@ -1,0 +1,43 @@
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\bin\Debug\net8.0\FileSend_server.exe
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\bin\Debug\net8.0\FileSend_server.deps.json
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\bin\Debug\net8.0\FileSend_server.runtimeconfig.json
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\bin\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\bin\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfo.cs
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\refint\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\FileSend_server.genruntimeconfig.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server\FileSend_server\obj\Debug\net8.0\ref\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.exe
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.deps.json
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.runtimeconfig.json
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfo.cs
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\refint\FileSend_server.dll
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.genruntimeconfig.cache
+E:\study\now\NP\SEC\New folder (2)\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\ref\FileSend_server.dll
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.exe
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.deps.json
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.runtimeconfig.json
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\bin\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.AssemblyInfo.cs
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.sourcelink.json
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.dll
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\refint\FileSend_server.dll
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.pdb
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\FileSend_server.genruntimeconfig.cache
+E:\study\now\NP\SEC\IMp\practical exam\FileSend_server - Copy\FileSend_server\obj\Debug\net8.0\ref\FileSend_server.dll
