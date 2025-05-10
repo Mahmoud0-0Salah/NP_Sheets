@@ -4,7 +4,18 @@ using System.Text;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Xml.Serialization;
 
-#pragma warning disable SYSLIB0011;
+//------------------protocol----------------
+//send length of  Serialized person obj
+//send  Serialized person obj
+//read length of  Serialized res obj
+//read  Serialized res obj
+//send length of  file
+//send  file
+//read length of  Serialized res obj
+//read  Serialized res obj
+//send one byte to start read file from server (Simulate that the file has been processed)
+//read length of  file
+//read  file
 
 namespace FileSend_server
 {
