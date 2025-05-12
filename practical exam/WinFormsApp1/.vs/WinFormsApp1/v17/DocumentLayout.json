@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|e:\\study\\now\\np\\sec\\imp\\practical exam\\winformsapp1\\winformsapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|e:\\study\\now\\np\\sec\\imp\\practical exam\\winformsapp1\\winformsapp1\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A61512FD-1AD5-40C7-B137-6AD237AE8C8B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,39 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Res.cs",
-              "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Res.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Res.cs",
-              "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Res.cs",
-              "RelativeToolTip": "WinFormsApp1\\Res.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:41:26.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Person.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Person.cs",
-              "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Person.cs",
-              "RelativeToolTip": "WinFormsApp1\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:39:20.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwF4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T14:55:50.147Z",
               "EditorCaption": ""
@@ -90,14 +64,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Res.cs",
+              "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Res.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Res.cs",
+              "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Res.cs",
+              "RelativeToolTip": "WinFormsApp1\\Res.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:41:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Person.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Person.cs",
+              "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Person.cs",
+              "RelativeToolTip": "WinFormsApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:39:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "E:\\study\\now\\NP\\SEC\\IMp\\practical exam\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:50:25.192Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-10T14:50:25.192Z"
             }
           ]
         }

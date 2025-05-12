@@ -3,6 +3,7 @@ using System.Net;
 using System.Text;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Xml.Serialization;
+using System.IO.Compression;
 
 //------------------protocol----------------
 //send length of  Serialized person obj
@@ -14,8 +15,8 @@ using System.Xml.Serialization;
 //read length of  Serialized res obj
 //read  Serialized res obj
 //send one byte to start read file from server (Simulate that the file has been processed)
-//read length of  file
-//read  file
+//read length of Compressed file
+//read Compressed file
 
 namespace FileSend_server
 {
@@ -77,6 +78,15 @@ namespace FileSend_server
 			
 			
 			ns.Read(new byte[1], 0, 1);
+
+			using (MemoryStream ms = new MemoryStream())
+			using (GZipStream gz = new GZipStream(ms, CompressionMode.Compress))
+			using (MemoryStream memoryStream = new MemoryStream(file))
+			{
+				memoryStream.CopyTo(gz);
+				gz.Flush();
+				file = ms.ToArray();
+			}
 			le = BitConverter.GetBytes(file.Length);
 			ns.Write(le, 0, le.Length);
 			ns.Write(file, 0, file.Length);

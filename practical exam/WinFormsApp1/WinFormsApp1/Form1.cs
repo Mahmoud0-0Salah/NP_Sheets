@@ -1,3 +1,4 @@
+using System.IO.Compression;
 using System.Net;
 using System.Net.Sockets;
 using System.Runtime.Serialization.Formatters.Binary;
@@ -84,7 +85,13 @@ namespace WinFormsApp1
 				if (r == 0) break;
 				total += r;
 			}
-			File.WriteAllBytes("File Path", data);
+			using (MemoryStream compressed = new MemoryStream(data))
+			using (GZipStream gz = new GZipStream(compressed, CompressionMode.Decompress))
+			using (FileStream output = new FileStream("File Path", FileMode.Create, FileAccess.Write))
+			{
+				gz.CopyTo(output);
+			}
+
 			pictureBox1.Image = Image.FromFile("File Path");
 		}
 
