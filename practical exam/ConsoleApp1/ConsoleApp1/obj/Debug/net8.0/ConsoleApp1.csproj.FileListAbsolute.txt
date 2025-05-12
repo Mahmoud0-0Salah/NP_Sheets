@@ -1,0 +1,29 @@
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\study\now\NP\SEC\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\study\now\NP\SEC\IMp\practical exam\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
